@@ -139,6 +139,7 @@ googlefonts:
 
 # Theme and colors
 chulapa-skin: 
+  skin     :  Minty    
   highlight     :  # default["default"]
   skin         :  # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
